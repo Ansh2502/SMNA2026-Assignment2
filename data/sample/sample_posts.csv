@@ -1,0 +1,599 @@
+post_id,title,selftext,score,upvote_ratio,num_comments,author,created_utc,created_dt,subreddit,url,permalink,year_month
+1mprh9r,"David Stratton, film critic and host of At the Movies alongside Margaret Pomeranaz, dies aged 85",,3323,0.97,271,SlatsAttack,1755148470.0,2025-08-14 05:14:30,australia,https://www.abc.net.au/news/2025-08-14/david-stratton-english-australian-film-critic-obituary/105654394?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=other,https://reddit.com/r/australia/comments/1mprh9r/david_stratton_film_critic_and_host_of_at_the/,2025-08
+1ljs56d,Antoinette Lattouf wins unlawful termination case against the ABC as federal court delivers judgment,,1824,0.96,275,theiere,1750812532.0,2025-06-25 00:48:52,australia,https://www.theguardian.com/media/2025/jun/25/antoinette-lattouf-v-abc-unlawful-termination-case-verdict-federal-court-judgment-ntwnfb,https://reddit.com/r/australia/comments/1ljs56d/antoinette_lattouf_wins_unlawful_termination_case/,2025-06
+1l1cbym,The surprising economics of switching to an all electric household.,"We undertook a major renovation on our 1925 Californian bungalow (Melbourne) in the last few years, and have been back in our renovated house for nearly a year now.
+
+I knew I wanted to switch to electric everything, and maximise the thermal performance of the renovation in order to save money on running costs - and I had rough numbers in mind, but its worked out  better than I had expected so I wanted to share some figures here, in the hope that its helpful to others.
+
+  
+For context, the old house had no wall insulation whatsoever,  but did have ceiling insulation batts throughout.  It was all single glazing, and a very drafty and gappy house generally.   We felt cold in the house about 8 months of the year.
+
+Post renovation we now have double glazing everywhere, maxed out insulation everywhere, and I paid super close attention to building wrap installation, gap sealing, window/door gaskets and drop-down integrated draft seals in the external doors, made sure every exhaust fan had backdraft stoppers installed, etc.
+
+
+
+**Pre-renovation figures** (3BR, 1bath)**:** 
+
+Average Monthly Gas bill (very old central  ducted gas heating, gas storage hot water, gas cooking): $330
+
+Average Monthly Electricity Bill: $255
+
+
+
+**Post renovation figures** (4BR, 3bath, all electric appliances):
+
+  
+Average Monthly Gas bill - $0 (we had the gas entirely disconnected, so don't pay anything now)
+
+Average Monthly Electricity Bill: $210
+
+  
+So $585 per month before, vs $210per month now, $4500/year saving.
+
+  
+Obviously we spent a bunch of money on the renovation getting to this point, and are very fortunate to have been able to - but given we intend to live here forever, and all of the appliances, windows etc were already at end of life and needed replacement anyway, it feels like money well spent - and certainly pleasing to see the ongoing savings - and MASSIVELY improved comfort as a result.
+
+We have solar panels too, but given the Feed In Tariff is effectively zero now, am exploring the economics of adding a home battery too.
+
+
+
+
+
+  
+
+
+
+
+",638,0.97,236,xjrh8,1748851286.0,2025-06-02 08:01:26,AusFinance,https://www.reddit.com/r/AusFinance/comments/1l1cbym/the_surprising_economics_of_switching_to_an_all/,https://reddit.com/r/AusFinance/comments/1l1cbym/the_surprising_economics_of_switching_to_an_all/,2025-06
+1lhhy4q,How Your Novated Lease Company Might Be Conning You,"**EDIT 27/01/2026:**
+
+**The spreadsheet has now been turned into a web app! Find it at** [**https://novatedlease.guide/calculator**](https://novatedlease.guide/calculator/?utm_source=reddit&utm_medium=post&utm_campaign=ausfinance_nl_company_con)**.**
+
+**The spreadsheet will remain in place for mathematical reference.**
+
+**---**
+
+\--
+
+One year ago, I released a well-received [Novated Lease Calculator](https://www.reddit.com/r/AusFinance/s/VHJ25VpNKu) to cut through the hype and provide realistic savings figures. It also highlights potential traps e.g. possible impact on superannuation and childcare subsidy. Since then, I have frequented many Reddit discussions and given various pointers and answers for common queries.
+
+Through this volunteer work, I have come across several concerning ways novated lease companies continue to mislead consumers.
+
+**1. The Emphasis of ""Tax Saving"" While Obscuring ""Extra Fees""**
+
+NL companies love showing off a tempting headline like:
+
+>You are saving $20,000 in tax!
+
+But they rarely tell you the full honest picture:
+
+>You are saving 20,000 dollars in tax >!but you are also paying 18,000 dollars in extra interest and fees that you wouldn't have paid if you simply bought one with cash or a reasonable car loan!<
+
+It's like if Officeworks offered to finance a $500 printer for $1,500 over 3 years, and advertised
+
+>Triple your tax refund from this scheme!
+
+without disclosing the overall higher cost from interests.
+
+This was what motivated me to write my calculator which actually derives the TRUE saving after all the impacts of tax, interest, fees, opportunity cost etc.
+
+**2. Downplaying the Residual Value (Balloon Payment)**
+
+Unlike traditional finance, novated leases don’t automatically grant you ownership of the car at the end. You’ll usually need to pay a residual value in the tens of thousands if you want to keep the car.
+
+Many quotes bury this figure in a very small print. You will see plenty of ads like:
+
+>Drive a new EV for 200 dollars per week!
+
+But they fail to mention visibly that after X years of lease payment, you do not own the car until you pay out a large balloon sum.
+
+**3. Failure to Pass on GST Credits (Common in Victorian Hospitals)**
+
+In Australia, most goods and services attract a 10% Goods and Services Tax (GST). For example, if you pay $110 for an item, $100 is the base price and $10 represents the GST. Under a typical novated lease arrangement, your employer can claim input tax credits (ITC) for the GST which is then passed on to you, i.e. you don't effectively pay for the GST in the running costs.
+
+In other words, if you pay for $11 dollars carwash which is $10 base price + $1 GST, typically the net effect of NL is that you don't end up paying the $1 GST component, meanwhile the $10 is funded with your pretax dollar.
+
+However, some employers have decided to skip this. In other words, for the same $11 carwash, you are now responsible for the entire $11 with pretax dollar. This effectively make all your running cost 10% more expensive than they should be. Victorian hospitals for some reasons are the top offenders.
+
+**4. Misleading ""Effective Interest Rates""**
+
+Unlike regulated comparison rates in home loans (which must follow a standard formula based on [National Credit Code](https://www.asic.gov.au/regulatory-resources/credit/credit-general-conduct-obligations/national-credit-code/)), there’s no consistent definition for an NL’s “effective interest rate.” So, when companies self-report these numbers, they might include or exclude:
+
+* Admin fees
+* Brokerage
+* Deferred repayments
+* Balloon figure assumptions, etc.
+
+While this might sound like a pedantic rant, it has HUGE implications to how it might mislead you. I once had a company A's supposedly self-reported ""8% interest rate"" lease being more expensive than company B's self-reported ""10% interest rate"" with everything else being equal.
+
+How does one compare two quotes then? Either:
+
+* Use my calculator’s interest tool to estimate the effective rate in a standardised way, or
+* Simply compare total vehicle lease + fees (do not include the running cost bit).
+
+**5. Bundling Insurance into the Financed Amount**
+
+Some lease providers sneak the first-year comprehensive insurance premium into the “financed amount.”
+
+Why does it matter?
+
+* Financed amount attracts effective interest over the lease term.
+* Running costs (e.g. rego, fuel, insurance normally) don’t attract interest; they’re just set aside like a prepaid budget.
+
+If insurance is bundled into the financed amount, you’re now paying interest on your insurance, which could have been avoided. Ask if insurance can be funded from your running cost allowance instead.
+
+**6. Inflating the Financed Amount with Undisclosed Brokerage**
+
+The financed amount \*should be\*:
+
+>Vehicle driveaway price + documentation fee - GST Saving.
+
+A couple of occasions people have posted a financed amount which is SIGNIFICANTLY higher than this amount, once by $8,000 dollar.
+
+On further investigation and pushing, it turns out that the leasing company **added their own brokerage fee into the financed amount but did not disclose it**.
+
+In that particular case,
+
+>Vehicle driveaway price + documentation fee - GST Saving = $60,000
+
+Meanwhile,
+
+>Vehicle driveaway price + documentation fee - GST Saving + hidden undisclosed brokerage = $68,000
+
+They then calculate your “interest rate” based on this inflated figure, which makes the effective rate lower than it is than another company that had done the calculation on the $60,000 figure.
+
+**Why is the government not doing more about these deceptive practices?**
+
+Novated lease lies in this convenient no man's land where
+
+1. It is **not considered a ""financial product""** as defined by the Corporations Act 2001 and hence a PDS is not required by law, plus
+2. It is also **not considered a ""credit product""** i.e. ""loan"" so they are also not under the purview of National Consumer Credit Protection Act 2009. Therefore regulatory requirements such as presenting comparison rates etc don't apply.
+
+As a result, novated lease companies are subject to much less regulatory oversight than other consumer finance products. They typically provide the minimum necessary documentation such as a quote, salary packaging agreement, and a lease agreement with the financier, however they don't typically provide a PDS. Even these documents they do provide are not standardised, which allows for a level of obfuscation such as inconsistent disclosure of brokerage, interest rates, financed amount etc as discussed in this post.
+
+**Final Thoughts**
+
+The examples above aren’t necessarily “illegal,” but many are borderline deceptive. I used ""conning"" as a clickbait, most of the time these are all unethical but still ""legal"" tricks.
+
+Don't get me wrong, as stated in my other posts, novated lease especially for EV is still often a fantastic deal (it is $46,000 dollar better than cash purchase for my car). However, for those who are considering it, you have to be cautious and read the fine print, and don’t just trust the glossy figures handed to you. Discuss with others and use tools like my free calculator to help make an informed decision.",546,0.98,103,changyang1230,1750576478.0,2025-06-22 07:14:38,AusFinance,https://www.reddit.com/r/AusFinance/comments/1lhhy4q/how_your_novated_lease_company_might_be_conning/,https://reddit.com/r/AusFinance/comments/1lhhy4q/how_your_novated_lease_company_might_be_conning/,2025-06
+1om6nte,Novated Lease Companies Hate This Updated Spreadsheet: How a 7.8% Quote Magically Becomes 10.1%,"**EDIT 27/01/2026:**
+
+**This has now been turned into a web app! Find it at** [**https://novatedlease.guide/calculator**](https://novatedlease.guide/calculator/?utm_source=reddit&utm_medium=post&utm_campaign=ausfinance_hate_updated_spreadsheet)**.**
+
+**The spreadsheet will remain in place for mathematical reference.**
+
+**---**
+
+**Did your NL company say the interest rate is ""7.8%"" for your lease?**
+
+Under a different calculation method, the *exact same deal* could be described as **9.1%**, or even **10.1%**.
+
+That's how inconsistent and unregulated ""effective interest rates"" are in the novated lease space, and this is exactly what this update is designed to expose that confusion
+
+**Links:**
+
+[NL Calculator landing page with explanations](https://www.reddit.com/r/AusFinance/s/VHJ25VpNKu)
+
+[Direct link to the spreadsheet](https://docs.google.com/spreadsheets/d/1CtpBXmuhRW3HrBjqJqnPeFhOfqCbPK-wXA17oz_1fuA/edit?usp=sharing)
+
+**What's New:**
+
+* **Three methodologies for “Effective Interest Rate”:** calculates the effective rate directly from your quote figures, showing how the same lease can produce very different rates depending on how brokerage and fees are structured.
+* **Reveals hidden costs**: shows how such structuring tricks can make self-reported rates look deceptively low.
+* Applies to both **EV and ICE** novated leases.
+* Still **100% FREE TO USE**. (Though a fully-optional cuppa is always appreciated!)
+
+**Why It Matters:**
+
+* Unlike home or car loans, novated leases have **no standardised comparison rate**.
+* Without consistent rules, the “effective interest rate” can vary wildly depending on how fees are incorporated in the financed amount, or even what the ""financed amount"" is in the first place.
+* This worksheet presents the effective rate under several definitions to reflect the unregulated reality of the industry, and allow users to make more meaningful apples-to-apples comparisons between quotes.
+
+**Shout-out:**
+
+* u/willaitken for demonstrating how to directly present the effective interest rate without  awkward goal-seek technique.
+* u/Benxb9r for sharing his industry knowledge generously.",408,0.97,71,changyang1230,1762052410.0,2025-11-02 03:00:10,AusFinance,https://www.reddit.com/r/AusFinance/comments/1om6nte/novated_lease_companies_hate_this_updated/,https://reddit.com/r/AusFinance/comments/1om6nte/novated_lease_companies_hate_this_updated/,2025-11
+1ls2lvb,BYD sales are booming. So are complaints about their cars,,334,0.81,229,Jaqwan,1751694066.0,2025-07-05 05:41:06,AusFinance,https://www.afr.com/companies/retail/byd-sales-are-booming-so-are-complaints-about-their-cars-20250630-p5mbdf,https://reddit.com/r/AusFinance/comments/1ls2lvb/byd_sales_are_booming_so_are_complaints_about/,2025-07
+1c5b9xx,EV and ICE Novated Lease Calculator,"**\[March 2026 update — global fuel crisis timing\]**
+
+EV enquiries have spiked dramatically alongside the fuel crisis, and a lot of people are being shown novated lease quotes for the first time.
+
+This is exactly the right moment to run the numbers *before* signing, rather than after.
+
+A few things worth knowing if you're new here:
+
+* The **web calculator** at [novatedlease.guide/calculator](https://novatedlease.guide/calculator/?utm_source=reddit&utm_medium=post&utm_campaign=ausfinance_ev_and_ice_nl_calculator) is now the recommended tool — same maths as this spreadsheet but far easier to use. Shareable links, instant effective interest rate derivation, no copy-paste gymnastics.
+* The ""tax savings"" figure on a dealer or NL company's quote is **not** the same as net savings. [This post explains why in detail](https://novatedlease.guide/costs-and-savings/why-tax-saved-is-wrong/#paying-more-to-save-tax-is-not-necessarily-a-win-even-when-the-number-works/?utm_source=reddit&utm_medium=post&utm_campaign=ausfinance_ev_and_ice_nl_calculator) — please read before getting excited about a headline number.
+* For those worried about EV depreciation making the numbers worse: the demand surge playing out right now (used EV enquiries are up alongside new ones) may fundamentally alter the EV resale trajectory. Worth factoring into your ""keep old car vs NL a new EV"" calculation.
+
+As always happy to answer questions below.
+
+\---
+
+**ORIGINAL POST BELOW:**
+
+Have you ever felt confused by this novated lease thing everyone is talking about?
+
+Why is it so polarising - some people claim it is a total scam, some claim that it saves them tens of thousands of dollars?
+
+Have you heard claims that one can save lots of money by novate-leasing an EV due to some tax incentives?
+
+You are getting an EV - how much do you actually get to save on novated lease, after all the skimming off the top by the leasing companies?
+
+What about traditional petrol cars - is novated leasing an option at all?
+
+What about comparing against keeping your current car? I have an aging car, do I keep driving it to the ground, or does novate-leasing actually come in cheaper‽ (In my case it did)
+
+[LINK TO THE SPREADSHEET](https://docs.google.com/spreadsheets/d/1CtpBXmuhRW3HrBjqJqnPeFhOfqCbPK-wXA17oz_1fuA/).
+
+**WHAT DOES THIS CALCULATOR DO?**
+
+* For both EV and ICE (internal combustion engine) vehicles, this calculator tells you exactly how much you stand to gain (or lose, in rare cases) using clear languages: how much cash you spend in each case, and what are the changes to your asset and your liability in each scenario.
+
+**THERE ARE PLENTY OF NOVATED LEASE WEBSITES WITH CALCULATOR, WHY ARE YOU CREATING ANOTHER ONE?**
+
+* This calculator does NOT use weasel languages of “saving”, “tax saved” commonly seen on novated lease quotes, while glossing over the charges and interests behind. It does not leave you guessing “saving compared to what, cash, offset, or a 15% loan?” Instead, it gives you the straight info using cash flow, asset and liability and let you compare between NL, cash, and loan, AFTER the impact of interest and charges.
+* What was the liability I mentioned? This refers to the concept of consequence of purchasing something with cash. When you buy a car with cash up front, your cash (say 60,000 dollars) is presumably taken from something that would otherwise generate income / save interest, most commonly in the form of offset saving account. By delaying this lump sum up front payment, novated lease saves you significant home loan interest, and with the current interest rate of > 6% this can be many thousands per year. This feature is not found on other websites.
+* You get to compare NL vs cash, NL vs loan, and best of all, NL vs keeping your current car. Comparing with keeping current car is also not found in any other calculator.
+* This calculator does the precise calculation based on your income, and apply income tax brackets accurately on your savings. For example, if the lease drops your income from one bracket to the next, it calculates the impact of both the original tax bracket and the lower tax bracket. It also uses both current tax bracket and new stage-3 tax brackets.
+
+**I DON'T HAVE A QUOTE FOR A CAR, CAN I STILL USE THIS CALCULATOR?**
+
+* This spreadsheet is most useful when you already have a quote from the NL company for a specific car. If you haven't yet gone that far but would merely like to explore this topic:
+   * Get an online quote for the car you are interesting in eg Tesla, BYD, Kia etc.
+   * Go to my spreadsheet and fill out all the orange cells (skip the Vehicle Lease (Per Fortnight) for now)
+   * Scroll down to section 4.1, enter an estimate ""interest rate"". As a rule of thumb, from my experience helping dozens of people, currently you get around 6 to 9% range for self-managed novated lease, 9 to 12% range for reasonable leasing company rate, and 12 to 16% for expensive novated lease company.
+   * Copy the ""calculated fortnightly vehicle lease"" figure and paste it to the Vehicle Lease (Per Fortnight) orange cell you skipped earlier.
+   * The spreadsheet now outputs a rough estimate of what happens to your finance when you NL (as compared to cash, loan, keeping old car etc).
+
+**I HEARD NOVATED LEASE AFFECTS CHILDCARE SUBSIDY / HECS ETC, WHAT IS THE DEAL?**
+
+* Novated lease, even the FBT-exempt ones, can lead to “reportable fringe benefit” (even when you don’t pay the fringe benefit TAX). This RFB in turn increases your “adjusted taxable income” which is tested for some of your government subsidy and debt liability.
+* The net effect is you often end up having reduced childcare subsidy, have to pay more HECS etc.
+* None of the novated lease companies bother calculating this because this is a drawback that they would rather you not know - not me, I am all for people going into this with eyes open.
+* This spreadsheet calculates the adjusted taxable income for you so you could use it to estimate how much your childcare subsidy, child support, HECS etc are affected by.
+* Edit 26/6/24: For FBT-applicable NL, if you use “employee contribution method” to reduce FBT, you will have NO reportable fringe benefit, therefore in general you will have lower taxable income and enjoy more benefits etc.
+
+**IS THIS FOR EV ONLY? I AM LOOKING AT NOVATE LEASING A PETROL / DIESEL CAR.**
+
+* The previous versions of this spreadsheet were created only for EV, however I have now added a page for ICE NL.
+* For ease of contrast, I have chosen to use an imaginary ICE with exactly the same price tag as the Tesla that I novate-leased (the spreadsheet contains my actual lease information).
+* It helps to show the impact of how much cheaper FBT-exempt EV NL is.
+
+**I HEARD YOU GET TO EARN MONEY BY CLAIMING ELECTRICITY FOR EV? REALLY? HOW?**
+
+* ATO now allows a flat distance-based 4.2c/km claim via novated lease, regardless of your true cost. This means that if you charge very cheaply (eg off peak tariff, lots of solar and/or lots of free public charging), you may end up making net profit.
+* The calculator shows you this effect using a few basic assumptions.
+
+**WHERE CAN I LEARN MORE ABOUT THE PROS, CONS AND CAVEATS OF NOVATED LEASE?**
+
+* Lots of websites have useful information, just google “novated lease pros and cons”
+* On my spreadsheet’s FAQ I have included the main caveats people need to watch out for - listing them here:
+   * Your government subsidy may be decreased due to the impact on your adjusted tax income - use my ""adjusted taxable income"" section to help estimating the impact.
+   * Your borrowing capacity for other assets e.g. investment property will be reduced - like any other lease or loan obligation.
+   * You are tied to the lease and breaking lease early incurs high cost.
+   * If you change your job, your new workplace needs to agree to transfer the lease arrangement. (They are not obliged to!)
+   * If you lose your job or income-generating capacity due to illness, injury etc, it can be problematic - check with your NL provider about the consequence.
+   * In a small minority, the employer could choose to contribute the super guarantee based on the reduced amount of ""pretax income"" after the novated lease portion is taken out. Please check with your payroll if this is the case.",1057,0.99,266,changyang1230,1713257330.0,2024-04-16 08:48:50,AusFinance,https://www.reddit.com/r/AusFinance/comments/1c5b9xx/ev_and_ice_novated_lease_calculator/,https://reddit.com/r/AusFinance/comments/1c5b9xx/ev_and_ice_novated_lease_calculator/,2024-04
+160hb2u,"ARTICLE: In Australia, why do people who produce nothing get rewarded the most?","The article nails what's wrong with Australia's tax system and unproductive property investment (buying existing property and just sitting on it).
+
+Well worth a read as these are problems that are driving increasing inequality in this country and destroying the quality of life for everyone except very wealthy Australians. Fixing them or failing to do so will define our future and that of our children.
+
+I've highlighted the juicy parts to help those of you with a short attention span.
+
+---
+
+***In Australia, why do people who produce nothing get rewarded the most?***
+
+Economists use such boring language, don’t they? Take the following from this week’s Intergenerational Report: “Structural changes to the economy are projected to put pressure on the revenue base over the coming decades”. That’s an extremely dull way of saying we have a massive tax problem.
+
+We’re about to get older – which means we require much more government spending on things like health care, aged care and the NDIS – and have no real way to pay for it. Even old favourites such as taxing petrol or cigarettes will fall short because electric cars are only going to get more popular, and tobacco tax revenue has already started falling.
+
+So, we’ll have to dream up some new taxes and expand some existing ones.
+
+And we’ll have to do this amid a housing crisis. **The current pain might feel like an acute moment, but it is really the culmination of decades of policy in which every factor has pulled in the direction of making housing unaffordable. Our tax system encourages us to take on large amounts of debt to accumulate investment properties, while we build houses too slowly to meet demand.**
+
+**Meanwhile, we seek more workers to fund expanding government spending. That’s hard in an ageing society where an ever smaller proportion of people work and pay tax. Hence, the imperative for us to have more babies, take in migrants or both. Accordingly, the housing crisis is not an adjunct to our tax problem: it’s at the core of it. People who can’t afford housing aren’t likely to rush into having kids. And adding migrants rapidly adds demand for housing, thereby making it immediately more expensive.**
+
+**A major problem here is that we rely far too much on collecting tax from workers. They pay twice as much overall tax as companies, for example, and enjoy relatively few tax breaks. At the same time, we give tax breaks to people who own investment properties and increase the demand for houses. You don’t have to believe property owners are all fat cats to think this is a problem. Indeed, many landlords are not particularly wealthy. But the issue here isn’t one of wealth so much as it is one of incentives. When we direct our tax concessions to property owners rather than workers, we make two significant, related statements: 1) having assets is better than working; and 2) passive income is better than income from productive activity.**
+
+We’re used to talking about productivity when it comes to workers. Specifically, we hear that wage growth without a corresponding increase in productivity simply leads to inflation, and because Australia has a productivity problem at the moment, real wage growth is unrealistic. Why, then, doesn’t a similar idea apply to property investment? We encourage it, and our politics therefore requires property prices to keep increasing, but we never talk about whether this is productive. And in truth, there’s often very little that’s productive about it.
+
+**If I buy a house, then rent it out and wait for its value to increase over time, what will I have actually produced?** The house exists either way, someone lives in it either way, and it requires no real labour from me. Unless I’m ploughing significant money into renovation, maintenance is about the most productive thing I could say I’m doing.
+
+That’s different from other kinds of investment. Someone who puts money into a new business, or an old one planning to expand, is helping to produce something. Even someone who builds a new house, or takes a block of land and turns it into several dwellings, is doing something productive – so it makes perfect sense for them to get tax concessions such as negative gearing. What they are not doing, is simply taking ownership of a pre-existing and largely unchanging asset and hoping to profit passively from that fact.
+
+This is not some piercing, new analysis. The whole point is that it’s a basically conventional one. **Since the late ’60s, economists have used the concept of “rent-seeking” to capture the economic harm that occurs when people seek to increase their wealth without doing anything to create new wealth for society. They often illustrate this with the extreme example of something like theft, or piracy.**
+
+Thieves and pirates don’t produce anything themselves. They therefore create no new wealth, and simply take what already exists. In the process, those who actually do produce things (only to have them stolen) have less profit for their risk and effort, while the thief enjoys almost pure profit. If we didn’t provide serious disincentives for this – like imprisonment – we’d find over time that society would produce less, and what little it produced would become hugely expensive.
+
+So, the economic theory goes, we shouldn’t incentivise legal forms of rent-seeking either. We don’t want companies taking government money to do things they would do anyway. We don’t want our market distorted by powerful lobby groups who convince politicians to give them subsidies or put tariffs on competitors. If they succeed in this, they end up with greater market share, inequality increases, and consumers pay more. Sound familiar?
+
+**If we’re going to have to rethink our tax system, rent-seeking seems a good place to start. Perhaps if we taxed productive profit less than its unproductive counterpart, we’d have the seedlings of a system better designed to meet what the Intergenerational Report warns us is coming.** Of course, landlords are not typically considered rent-seekers in this technical sense. But there’s a case to be made that our tax system makes them so. Their tax concessions, such as on negative gearing and capital gains, are a kind of government subsidy maintained, in part, by a strong lobby group. That’s not a criticism of landlords or property investors, against whom I have nothing. But it is a criticism of the incentives that make most of us wish we were part of their cohort.
+
+---
+
+Link without paywall: https://12ft.io/proxy?q=https%3A%2F%2Fwww.theage.com.au%2Fnational%2Fin-australia-why-do-people-who-produce-nothing-get-rewarded-the-most-20230824-p5dz4w.html
+
+Link to original article: https://www.theage.com.au/national/in-australia-why-do-people-who-produce-nothing-get-rewarded-the-most-20230824-p5dz4w.html",1044,0.89,719,_HeyHeyHeyyy_,1692918083.0,2023-08-24 23:01:23,AusFinance,https://www.reddit.com/r/AusFinance/comments/160hb2u/article_in_australia_why_do_people_who_produce/,https://reddit.com/r/AusFinance/comments/160hb2u/article_in_australia_why_do_people_who_produce/,2023-08
+1gu6how,Anyone else notice younger devs giving up on the 'hustle culture'?,"Keep seeing smart engineers at my company taking pay cuts to work 4-day weeks or going fully remote with smaller startups. They'd rather have time for hobbies and travel than grind for promotions that barely keep up with rent these days.
+
+One senior dev just switched to contracting 3 days a week. Says the extra money from grinding leetcode isn't worth missing life for. Wild seeing this mindset shift. Anyone else?",998,0.95,359,chrisweighted,1731941593.0,2024-11-18 14:53:13,AusFinance,https://www.reddit.com/r/AusFinance/comments/1gu6how/anyone_else_notice_younger_devs_giving_up_on_the/,https://reddit.com/r/AusFinance/comments/1gu6how/anyone_else_notice_younger_devs_giving_up_on_the/,2024-11
+1gibr5b,"Update: Quoted $8,000 for dental work for 4 year old","Sharing an update for those who followed or commented on the original story or are in a similar situation.
+
+So a couple of weeks ago, i took my child to see a paediatric dentist to look into getting two of his front teeth fixed as he had an accident when we was younger resulting in decay and discolouration as they grew out. After the session the dentist said that he needed urgent repair work consisting of an extraction, 3 pulpotomies and 8 fillings under general anaesthesia costing $8,000.
+
+After listening to some commenters here, we decided to get a second opinion and called our local LHD and booked a public dental appointment. The dentist we saw there was so much better, she actually asked us about his diet and brushing habits and gave us really good tips and suggestions.
+
+Here's the kicker - he does NOT need ANY extractions or pulpotomies. He will need some sealants and possibly two fillings but they're going to monitor how he goes. Furthermore, under Medicare we don't need to pay anything as public dental is provided for all kids under 18 in NSW (the Gov websites were a bit confusing and initially we thought you had to have a health care card or meet certain income requirements which is not the case).
+
+So lesson learned, always get a second opinion for dentistry and go public if possible. I still can't believe how predatory some dentists can be putting kids at risk with unnecessary surgery all for a quick buck.
+
+",918,0.96,233,Dry-Breakfast532,1730596957.0,2024-11-03 01:22:37,AusFinance,https://www.reddit.com/r/AusFinance/comments/1gibr5b/update_quoted_8000_for_dental_work_for_4_year_old/,https://reddit.com/r/AusFinance/comments/1gibr5b/update_quoted_8000_for_dental_work_for_4_year_old/,2024-11
+18vqgpu,Best Money Hacks 2024,"I’m always looking for the next money saving hack and I’d love to hear from the brains trust. I’ll list a bunch that I do or am aware of and would love to hear yours. 
+
+1. Credit card churning - chasing Qantas/velocity points with opening card bonus points
+
+2. 7/11 Fuel Lock hack - changing IP location to lock in best Australia wide price
+
+3. Woolworths Rewards (I’m a Woolies person) - purchasing cost effective insurance, or Everyday Rewards subscription to get 10% off one shop a month.
+
+>> 3a 20x rewards points for gift card purchases. 
+>> 3b using 10% off for bulk 50% purchases - paper towels, toilet paper, washing powder, soap etc. 
+
+4. HelloFresh/Marley Spoon/Every Plate/YouFoodz discount deals churn. 
+
+5. Negotiating contracts - particularly with health insurance and phone providers. Just yesterday I reduced my monthly phone/nbn bill by $40 a month and received 6 weeks free private health insurance on current policy (equates to 12% discount). 
+
+6. Solar rebates and EV purchase
+
+7. Temporary full expensing on business car purchase (no longer available as at June 30 2023) [for business owners]
+
+8. Negotiating variable interest rates under 6%
+
+9. Price comparisons on big ticket items before purchase. 
+
+I’m sure there’s some awesome ones out there - the trickier the better…fire away!",751,0.95,562,Mattahattaa,1704089279.0,2024-01-01 06:07:59,AusFinance,https://www.reddit.com/r/AusFinance/comments/18vqgpu/best_money_hacks_2024/,https://reddit.com/r/AusFinance/comments/18vqgpu/best_money_hacks_2024/,2024-01
+1mh1fec,Now I get why the US will never let China sell cars here: they’re actually good cars,"I’m in Costa Rica for a month and have been using Uber to get around. A lot of cars here are Chinese, and I’ve ridden in several EVs. I own 2 Teslas and realize now Tesla’s quality issues aren’t just due to cost-cutting and cutting corners: they have everything to do with how terrible Tesla is at manufacturing and how good China is at it. Their quality is on par with Toyota and higher-end GM vehicles. 
+
+The EVs I rode in all had between 40-60k miles, drive on terrible, unmaintained roads all day and had no rattles, no misaligned interior panels and had pleasing designs: all things Tesla just can’t do right. My 2022 Model 3, with 20k miles driven on far smoother roads, rattles everywhere. The Chinese cars all have better suspensions and have real buttons for climate control, gear shifts, etc.
+
+Now I understand how shit-scared US manufacturers are of China and why they keep warning us Chinese cars will end our auto industry: their products are built better and are inexpensive. Once they sell $25k Model Y competitors on US soil it’s game over. 
+
+EDIT: a few people have asked what cars I’ve ridden in. I’ve been in a Geely Geometry E, several BYD cars, and a FAW Bentune. I’ve also been in several Chinese ICE cars (too many oddball brand names for me to keep track). 
+
+One area where they are very deficient is the look and feel of the UI in their touchscreens. Some of them look cartoony with garish colors and really bad English names. This is one area where American car companies have thankfully invested time and money—UI designers don’t get enough credit for what they do (when they’re good at their job).",3974,0.93,1153,Rude-Future-7967,1754273765.0,2025-08-04 02:16:05,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1mh1fec/now_i_get_why_the_us_will_never_let_china_sell/,https://reddit.com/r/electricvehicles/comments/1mh1fec/now_i_get_why_the_us_will_never_let_china_sell/,2025-08
+1nkjfgr,"South Koreans cancel Tesla orders, choose Hyundai GV70 amid Georgia detention anger",,2789,0.96,134,snowfordessert,1758227370.0,2025-09-18 20:29:30,electricvehicles,https://www.chosun.com/english/market-money-en/2025/09/11/CL524WCF5ND7LNSFR42F2OSCN4/,https://reddit.com/r/electricvehicles/comments/1nkjfgr/south_koreans_cancel_tesla_orders_choose_hyundai/,2025-09
+1kwwe7t,Electric cars study says brake dust reduced by 83%,,2683,0.99,396,OXMWEPW,1748374160.0,2025-05-27 19:29:20,electricvehicles,https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/,https://reddit.com/r/electricvehicles/comments/1kwwe7t/electric_cars_study_says_brake_dust_reduced_by_83/,2025-05
+1n44kra,Just picked up a new Xiaomi SU7 Max,"Ordered it in April 2025, was suppose to collect in October 2025 but there was a cancelled order with the exact same spec.
+
+Costing in total: 340K RMB // 48K USD
+
+It is based on the SU7 Max 674 hp, but I added a 21 inch wheel customised.
+
+Picked up from the Beijing super factory. I’m a UK citizen living in China, so I had to rent a plate from someone.
+
+Anyway, my first electric vehicle. There was a lot of YU7s there too.
+
+So far I’ve unlocked the autonomous driving and auto parking, works wonders.
+
+",2346,0.94,272,Wackjungler,1756567947.0,2025-08-30 15:32:27,electricvehicles,https://www.reddit.com/gallery/1n44kra,https://reddit.com/r/electricvehicles/comments/1n44kra/just_picked_up_a_new_xiaomi_su7_max/,2025-08
+1pzrpo6,I blew my coworker's mind when comparing efficiency,"My coworker is one of those guys who has all these doubts and concerns about EVs, mostly from a position of misinformation and not malice. He was joking with me about my ""mere"" 280-300 mile range today and I remarked about how WAY more efficient my vehicle is compared to his. We did some rough math on some scrap paper and when I laid it all out he was genuinely surprised: 
+
+* US Dept of Energy uses a conversion that says a gallon of gasoline is roughly 33kwh. 
+* His car (2018 GTI) has a ~13 gallon tank, therefore he stores ~429kwh when his tank is full
+* My car (Ioniq 5) has a 78kwh battery, which is the equivalent to approximately 2.4 gallons of gas. 
+
+&nbsp;
+
+I let him do them math to realize I'm essentially driving ~300 miles on the equivalent of 2.4 gallons of gas, while he gets ~84 miles in the same 2.4 gallons of gas. We even gave him a little leeway for highway miles, even if he gets 35mpg he still only makes it 105 miles on 2.4 gallons of gas. My dude was pretty quiet for a bit there. 
+
+&nbsp;
+
+I don't think the average person realizes how much energy is completely wasted in ICE vehicles.",2289,0.97,762,smallaubergine,1767123854.0,2025-12-30 19:44:14,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1pzrpo6/i_blew_my_coworkers_mind_when_comparing_efficiency/,https://reddit.com/r/electricvehicles/comments/1pzrpo6/i_blew_my_coworkers_mind_when_comparing_efficiency/,2025-12
+1l825co,"The Chevy Equinox EV is selling like hotcakes. Starting at under $35,000 with over 315 miles of range, Chevy’s electric SUV is proving to be a hit.",,2168,0.97,518,mafco,1749570414.0,2025-06-10 15:46:54,electricvehicles,https://electrek.co/2025/06/10/chevy-equinox-ev-selling-like-hotcakes/,https://reddit.com/r/electricvehicles/comments/1l825co/the_chevy_equinox_ev_is_selling_like_hotcakes/,2025-06
+1l0w011,Elon Musk is starting to realize Trump and GOP are killing Tesla | Electrek,,2154,0.94,352,chilladipa,1748802273.0,2025-06-01 18:24:33,electricvehicles,https://electrek.co/2025/05/30/elon-musk-starting-realize-trump-gop-killing-tesla/,https://reddit.com/r/electricvehicles/comments/1l0w011/elon_musk_is_starting_to_realize_trump_and_gop/,2025-06
+1ohqb05,Canada is rumored to immently remove tariffs on Chinese electric cars,,2126,0.97,539,IDontScript,1761598579.0,2025-10-27 20:56:19,electricvehicles,https://electrek.co/2025/10/27/canada-rumored-immently-remove-tariffs-chinese-electric-cars/,https://reddit.com/r/electricvehicles/comments/1ohqb05/canada_is_rumored_to_immently_remove_tariffs_on/,2025-10
+1ksqrom,"The budget bill that just passed the House ends the $7500 EV credit, and imposes a new $250 annual fee on EVs, to be collected by state vehicle registration systems.",,2121,0.99,662,OneDollarSatoshi,1747920674.0,2025-05-22 13:31:14,electricvehicles,https://www.barrons.com/articles/republican-new-tax-bill-cuts-wallet-61e7e5a4,https://reddit.com/r/electricvehicles/comments/1ksqrom/the_budget_bill_that_just_passed_the_house_ends/,2025-05
+1nczfrx,Buying an EV is a absolute game changer,"The fact EV’s only account for 1 percent of cars on the road in the US is insane to me. Why the hell would anyone buy a gasoline car when a significantly better alternative is available. Buying an EV is one of the best purchases I’ve ever made. 
+
+I got a low miles used 2023 Ariya for 28k,  6 months ago and it’s already saved me 2 grand in gas. The fact I’ll never have to go to a gas station for gas or get an oil change again is mind blowing. I installed a level 2 charger in my garage and full “tank” (280 miles) costs me $10
+
+The car literally makes no noise whatsoever and is so fast. 
+
+I go on YouTube and see all this FUD about fires. Again how the hell is the adoption rate only 1 percent?",2094,0.94,1172,gamblersfalacy,1757462805.0,2025-09-10 00:06:45,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1nczfrx/buying_an_ev_is_a_absolute_game_changer/,https://reddit.com/r/electricvehicles/comments/1nczfrx/buying_an_ev_is_a_absolute_game_changer/,2025-09
+1mhaesm,"Tesla's brand loyalty collapsed after Musk backed Trump, new S&P data shows",,2054,0.97,349,Dreaming_Blackbirds,1754305514.0,2025-08-04 11:05:14,electricvehicles,https://www.reuters.com/business/autos-transportation/teslas-brand-loyalty-collapsed-after-musk-backed-trump-data-shows-2025-08-04/,https://reddit.com/r/electricvehicles/comments/1mhaesm/teslas_brand_loyalty_collapsed_after_musk_backed/,2025-08
+1nw9hxj,"BMW cuts prices by $7,500 on all EVs",,2029,0.99,212,OXMWEPW,1759424648.0,2025-10-02 17:04:08,electricvehicles,https://electrek.co/2025/10/02/bmw-keeps-the-good-times-going-with-7500-off-msrp-on-all-its-evs/,https://reddit.com/r/electricvehicles/comments/1nw9hxj/bmw_cuts_prices_by_7500_on_all_evs/,2025-10
+1mtjcln,Costco's fast EV charging experiment could be a game changer for American drivers,,1918,0.99,482,Kookaburrrra,1755516477.0,2025-08-18 11:27:57,electricvehicles,https://www.usatoday.com/story/money/cars/2025/06/26/costco-fast-ev-charger-experiment-spacex/84335283007/,https://reddit.com/r/electricvehicles/comments/1mtjcln/costcos_fast_ev_charging_experiment_could_be_a/,2025-08
+1n91f4b,Over 30 Koreans on business trips arrested in ICE raid on Hyundai-LG joint EV battery plant in Georgia,,1910,0.99,483,Korece,1757067577.0,2025-09-05 10:19:37,electricvehicles,https://www.businesskorea.co.kr/news/articleView.html?idxno=251200,https://reddit.com/r/electricvehicles/comments/1n91f4b/over_30_koreans_on_business_trips_arrested_in_ice/,2025-09
+1ove602,"EV sales **still** have not fallen, cooled, slowed or slumped. Media is lying to you.",,1780,0.97,252,Dockalfar,1762974209.0,2025-11-12 19:03:29,electricvehicles,https://electrek.co/2025/11/12/ev-sales-still-have-not-fallen-cooled-slowed-or-slumped-media-is-lying-to-you/,https://reddit.com/r/electricvehicles/comments/1ove602/ev_sales_still_have_not_fallen_cooled_slowed_or/,2025-11
+1lpyyud,"Tesla confirms Cybertruck sales are down to just ~5,000 units",,1750,0.96,645,SpriteZeroY2k,1751470450.0,2025-07-02 15:34:10,electricvehicles,https://electrek.co/2025/07/02/tesla-confirms-cybertruck-sales-are-down-to-just-5000-units/,https://reddit.com/r/electricvehicles/comments/1lpyyud/tesla_confirms_cybertruck_sales_are_down_to_just/,2025-07
+1lty049,Elon Musk realized too late how badly Tesla will hurt from Trump's bill,,1698,0.95,330,SpriteZeroY2k,1751904086.0,2025-07-07 16:01:26,electricvehicles,https://electrek.co/2025/07/07/elon-musk-realized-too-late-how-badly-tesla-will-hurt-from-trumps-bill/,https://reddit.com/r/electricvehicles/comments/1lty049/elon_musk_realized_too_late_how_badly_tesla_will/,2025-07
+1mw7a0f,Elon Musk’s Self-Driving Tesla Lies Are Finally Catching Up To Him,,1655,0.91,303,Giants4Truth,1755772508.0,2025-08-21 10:35:08,electricvehicles,https://www.forbes.com/sites/alanohnsman/2025/08/20/elon-musks-self-driving-tesla-lies-are-finally-catching-up-to-him/,https://reddit.com/r/electricvehicles/comments/1mw7a0f/elon_musks_selfdriving_tesla_lies_are_finally/,2025-08
+1mnttpw,America Has Completely Blown Any Sort Of EV Transition,"Inside EVs editor-in-chief, Patrick George: ""the auto industry has always chased two things: efficiency and performance. And EVs trump gas cars at both. How long do you think the automakers that serve the U.S.—pretty much all of whom operate globally—will be willing to go along with archaic technology when the writing is on the wall everywhere else?""
+
+And quoting Bloomberg:
+""More than three-quarters of the value of vehicles brought into Nepal, Sri Lanka and Djibouti last year was purely electric. Import shares in Ethiopia and Laos were 40% and 30% respectively. Plug-in sales increased by 60% in developing countries as a whole in 2024, according to the International Energy Agency.""",1655,0.95,545,GreenerMark,1754957714.0,2025-08-12 00:15:14,electricvehicles,https://insideevs.com/news/768551/america-ev-transition-cm/,https://reddit.com/r/electricvehicles/comments/1mnttpw/america_has_completely_blown_any_sort_of_ev/,2025-08
+1nviytk,The Ioniq 5 price cuts prove that the car companies were gouging us,"An immediate 9k price drop the moment the credits are gone is kind of ridiculous.  
+The argument about recouping R & D costs has been a misnomer for a while.
+
+There's nothing super magical about an electric car.  
+The bulk of it is similar to any new car R&D they'd have to do.  
+Batteries are obviously the main extra cost but a 84kwh is only 8400 if we're approaching a hundred dollars a kw hour. The engine in a gas car will cost a few thousand as well.
+
+True pricing for electric cars should probably be getting to about 5k more than comparable gas cars. Still a bit to go!
+
+
+
+",1557,0.89,446,chiefVetinari,1759349227.0,2025-10-01 20:07:07,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1nviytk/the_ioniq_5_price_cuts_prove_that_the_car/,https://reddit.com/r/electricvehicles/comments/1nviytk/the_ioniq_5_price_cuts_prove_that_the_car/,2025-10
+1lju0mn,Federal judge orders Trump administration to release EV charger funding in 14 states,,1491,0.99,60,rosier9,1750818083.0,2025-06-25 02:21:23,electricvehicles,https://apnews.com/article/lawsuit-ev-chargers-trump-washington-california-2a94e98f11d838f91ecf98cf2f939f01,https://reddit.com/r/electricvehicles/comments/1lju0mn/federal_judge_orders_trump_administration_to/,2025-06
+1numdyy,U.S. Army confirms Tesla Cybertruck can’t be imported in Europe - too unsafe for pedestians,,1426,0.96,210,OXMWEPW,1759259843.0,2025-09-30 19:17:23,electricvehicles,https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/,https://reddit.com/r/electricvehicles/comments/1numdyy/us_army_confirms_tesla_cybertruck_cant_be/,2025-09
+1lafu3m,Consumer Reports Urges U.S. Lawmakers to Drop Proposed Electric Vehicle Fees,,1410,0.99,228,OXMWEPW,1749821031.0,2025-06-13 13:23:51,electricvehicles,https://evmagz.com/consumer-reports-urges-u-s-lawmakers-to-drop-proposed-electric-vehicle-fees/,https://reddit.com/r/electricvehicles/comments/1lafu3m/consumer_reports_urges_us_lawmakers_to_drop/,2025-06
+1n5qrwq,Misconceptions about EVs,"Since I bought my EV, I've been amazed at all the misinformation that I've heard from people.  One guy told me that he couldn't drive a vehicle that has less than a 100 mile range (mine is about 320 miles) others that have told me I must be regretting my decision every time that I stop to charge (I've spent about 20 minutes publicly charging in the past 60 days), and someone else who told me that my battery will be dead in about 3 years and I'll have to pay $10,000 to fix it (my extended warranty takes me to 8 years and 180,000 miles). 
+
+  
+What's the biggest misconception you've personally encountered. 
+
+",1402,0.96,1125,Cultural-Ad4953,1756738260.0,2025-09-01 14:51:00,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1n5qrwq/misconceptions_about_evs/,https://reddit.com/r/electricvehicles/comments/1n5qrwq/misconceptions_about_evs/,2025-09
+1lgfcml,"BYD is testing solid-state EV batteries in its Seal sedan with nearly 1,200 miles of range",,1401,0.96,397,magenta_placenta,1750454245.0,2025-06-20 21:17:25,electricvehicles,https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/,https://reddit.com/r/electricvehicles/comments/1lgfcml/byd_is_testing_solidstate_ev_batteries_in_its/,2025-06
+1one92k,"I love my EV, but holy crap, traveling long distance SUCKS.","My family and I decided to do a three day trip from Maryland (about an hour west of Baltimore) to Sleepy Hollow, NY for Halloween using our Kia EV6 AWD and unfortunately I think we won't be taking any more long trips with it (it's roughly a 5 hour drive with charging).
+
+\- used ABRP with dongle (but dongle didn't like me - used one ABRP recommended) - had ABRP set to arrive at final location with 25% charge as a buffer
+
+Here's what happened:
+
+1. Got to first charger about 2 1/2 hours into the drive, plugged in, tried to use Kia Connect app, and it got stuck authenticating. Switched to Chargepoint and it just worked.
+2. Got to Sleepy Hollow with about 25% charge left, so we drove around a bit, saw some stuff, then went to the hotel which was about 5 miles away. Dropped off our stuff and then went back into SH and saw some stuff and trick or treated. We then went back to the hotel.
+3. I had seen on the Plugshare app that there was one 100kw charger near SH, so we got to it, but there was a cone in front of it, tried to move the cone but attendant came out and said I couldn't use the spot. Slow charger was available but not worth using as it was far from the Town center. 
+4. Did some stuff around town then went to hotel to drop family off. There was a fast charger about 10 minutes east of our hotel, so I drove to it, arriving with maybe 17% battery left. The slow charger was available and one other spot was open, however, a BMW was waiting and said that the available fast charger didn't work. He said he'd been there for 20 minutes waiting and was visibly frustrated (I was too). One car left about 5 minutes later, he pulled in. I looked at the charger that the BMW guy said didn't work, and figured I'd try it. It worked, but was only 150 KW. BMW Guy couldn't get charger to work and had to call tech support so I went into the bathroom at a local store. Came back out about 5 minutes later and he was able to charge. 
+5. Charged up to about 80%, . Went back to hotel and, sleepy hollow, then back to hotel. 
+6. Drove to New York City the next morning, did some stuff there, then drove towards home, first charger we hit, only nacs was available, used it for about 5 minutes then a CCS spot opened , I pulled in that spot. Tried to use my card and it rejected it five times. Had to try two other cards and it finally worked. 
+7. We charged to about 75% and got back on the road, but knew I would need one more charge. I setup ABRP to find a charger midway and so we plotted for that one, but about 10 minutes later it said it found a faster route, so I selected that, which then picked a route directly home that would have left us about 40 miles too short from home. I had even put in our current SoC in the app and it seemed to take it, but on the next screen it seemed to think we had started with 90% so it thought we were good. Come to find out that the OBD dongle wasn't connected to ABRP, I tried relinking, but no luck.
+8. I reverted back to the original plan and we charged there, it worked with no issues, and we drove the rest home.
+
+My overall thought is, until this gets as easy as filling up a car with gas, it sucks.
+
+For everyone asking about why I didn't use the Tesla SC network, this is the map, the south most charger is 25 minutes away (Sleepy Hollow is north of Tarrytown).
+
+https://preview.redd.it/olu1q8jms2zf1.jpg?width=580&format=pjpg&auto=webp&s=eb0c84067a77bb7730f668f9c1430858b3ac3635
+
+",1391,0.85,2235,JennaLeighWeddings,1762182580.0,2025-11-03 15:09:40,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1one92k/i_love_my_ev_but_holy_crap_traveling_long/,https://reddit.com/r/electricvehicles/comments/1one92k/i_love_my_ev_but_holy_crap_traveling_long/,2025-11
+1nisawr,"Tesla Engineer Quits, Roasts Elon Musk in Spectacular Fashion",,1388,0.9,155,PerAsperaAdMars,1758053369.0,2025-09-16 20:09:29,electricvehicles,https://futurism.com/tesla-engineer-roasts-elon-musk,https://reddit.com/r/electricvehicles/comments/1nisawr/tesla_engineer_quits_roasts_elon_musk_in/,2025-09
+1mhwkbe,"Had the displeasure of talking to certain Ford ""engineers"" at an extended family event. Everyone was vehemently anti-EV.","Think your local dealership is against EVs? It's them damn engineers too. It was very sad to hear from a couple of engineers. They were laughing at their CEO for going all in on EV and how it won't work in the US. How they are glad EV investments are being pulled back and put into Hybrids. How their jobs are ""safe"" now.
+
+I was very disheartened to hear this. Of course this is a sample size of less than 10. But I wanted to share.",1380,0.93,991,India_ofcw8BG,1754358963.0,2025-08-05 01:56:03,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1mhwkbe/had_the_displeasure_of_talking_to_certain_ford/,https://reddit.com/r/electricvehicles/comments/1mhwkbe/had_the_displeasure_of_talking_to_certain_ford/,2025-08
+1pqttb7,(US) Volkswagen Cancels ID. Buzz For 2026,"Add the Volkswagen ID.Buzz to the list of canceled or production-paused EV’s for the US market, following the demise of the US-sold Nissan Ariya, Kia EV4, Ford F-150 Lightning, Genesis G80 Electric, Polestar 2, Acura ZDX, among others. 
+
+High import tarrifs, lower than expected demand are likely deciding factors for axing the Buzz stateside. ",1389,0.98,632,runnyyolkpigeon,1766172047.0,2025-12-19 19:20:47,electricvehicles,https://www.carscoops.com/2025/12/vw-cancels-id-buzz-for-2026-as-dealers-warn-it-might-be-over/,https://reddit.com/r/electricvehicles/comments/1pqttb7/us_volkswagen_cancels_id_buzz_for_2026/,2025-12
+1pw93oh,China Bans Retractable EV Door Handles Over Safety Concerns,,1373,0.99,193,tinybathroomfaucet,1766768458.0,2025-12-26 17:00:58,electricvehicles,https://www.sixthtone.com/news/1018021,https://reddit.com/r/electricvehicles/comments/1pw93oh/china_bans_retractable_ev_door_handles_over/,2025-12
+1lwvwd0,Cops Called for Charging Vehicle at night,"Last night, after purchasing my new vehicle, I went to charge it at a DC fast charger that's listed as *public* on the ChargePoint app. The charger is located at a local dealership, and I paid for the charging session just like any other customer would.
+
+Tonight, I returned around 8–9 PM to charge again — this is probably going to be my regular time to charge since it's convenient while my fiancé and I wind down and the baby is asleep.
+
+Both times I charged, the police were called.
+
+The first night was a quick interaction — I explained to the officer that I was actively charging and paying for the session, and they left without issue. Tonight, however, was a different story. The responding officer acted like I had no right to be on the property and threatened to arrest me until I showed proof that I was paying to use the charger.
+
+These chargers are marked as public, and it looks like the dealership is in the process of installing even more, so I assume they’re expecting increased use. There is **no signage** anywhere stating that the chargers are off-limits after hours or that the lot is restricted at night.
+
+I’ve already contacted ChargePoint support, and they confirmed that the station is public. They’ve also escalated the issue to their internal team to help get the situation resolved.
+
+I plan to call the dealership tomorrow, because it seems like their alarm or security company isn’t aware that people are allowed to access these chargers after business hours. If you’re going to list chargers as public, it’s important your security setup reflects that.
+
+Has anyone else run into something like this?
+
+**Update:**  
+I added a review to the dealership, and this was their response:
+
+""Hi, we're sorry you experienced this. We have a new monitoring service, and we have explained to them people can use the charge point after hours and need to remain at their vehicle when they use them. Again, we are sorry that you experienced this and it should be resolved. ""
+
+Hopefully this really does resolve it going forward. Just wanted to share in case anyone else runs into a similar situation — stay safe out there!",1358,0.99,259,ItsTh3Mailman,1752202401.0,2025-07-11 02:53:21,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1lwvwd0/cops_called_for_charging_vehicle_at_night/,https://reddit.com/r/electricvehicles/comments/1lwvwd0/cops_called_for_charging_vehicle_at_night/,2025-07
+1ojf3ub,Forget the myths: EV batteries are now more than 99% recyclable,,1342,0.99,132,magenta_placenta,1761768448.0,2025-10-29 20:07:28,electricvehicles,https://electrek.co/2025/10/28/forget-the-myths-ev-batteries-are-now-more-than-99-recyclable/,https://reddit.com/r/electricvehicles/comments/1ojf3ub/forget_the_myths_ev_batteries_are_now_more_than/,2025-10
+1owz4x1,Never Going Back to Gas,"I'm on my first EV, had it for about 2 years. I recently had to take it in to the dealership on a recall. As a loaner, they gave me the exact same model, but the gas version. When I started it up, I was like ""ewww engine noise"". As as I drove it, I'm like ""this sucks. it takes FOREVER to accelerate"". And this is a high end luxury brand, so it's probably quieter and performs better than average.
+
+Anyone else get the icks driving a gas vehicle now?",1336,0.94,619,[deleted],1763133237.0,2025-11-14 15:13:57,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1owz4x1/never_going_back_to_gas/,https://reddit.com/r/electricvehicles/comments/1owz4x1/never_going_back_to_gas/,2025-11
+1mn20ml,The Whole World Is Switching to EVs Faster Than You,"A reminder that the US - and its automakers - is getting left far behind. ""Far from trailing the rich world in their enthusiasm for battery cars, developing nations are surging ahead.""",1329,0.95,375,Dreaming_Blackbirds,1754881578.0,2025-08-11 03:06:18,electricvehicles,https://www.bloomberg.com/opinion/articles/2025-08-10/the-whole-world-is-switching-to-evs-faster-than-you,https://reddit.com/r/electricvehicles/comments/1mn20ml/the_whole_world_is_switching_to_evs_faster_than/,2025-08
+1kz792v,EV Batteries Are Outlasting the Car,,1253,0.98,199,OXMWEPW,1748619213.0,2025-05-30 15:33:33,electricvehicles,https://cleantechnica.com/2025/05/29/ev-batteries-are-outlasting-the-car/,https://reddit.com/r/electricvehicles/comments/1kz792v/ev_batteries_are_outlasting_the_car/,2025-05
+1m7hsnx,It Looks Like the Tesla Model Y Refresh Has Bombed,"The Model Y refresh and the Cybertruck have been significant failures. How many bad launches can Tesla have, assuming they have new products in the pipeline?",1250,0.84,1147,[deleted],1753296899.0,2025-07-23 18:54:59,electricvehicles,https://www.wired.com/story/it-looks-like-the-tesla-model-y-refresh-has-bombed/,https://reddit.com/r/electricvehicles/comments/1m7hsnx/it_looks_like_the_tesla_model_y_refresh_has_bombed/,2025-07
+1mwhx07,California moves to boost EV sales and emissions rules,,1251,0.99,205,stinger_02in,1755798277.0,2025-08-21 17:44:37,electricvehicles,https://www.cbtnews.com/california-moves-to-boost-ev-sales-and-emissions-rules/,https://reddit.com/r/electricvehicles/comments/1mwhx07/california_moves_to_boost_ev_sales_and_emissions/,2025-08
+1mnel0i,"Ford Aims for Revolution With $30,000 Electric Truck",,1224,0.97,712,DonkeyFuel,1754922706.0,2025-08-11 14:31:46,electricvehicles,https://www.thedrive.com/news/ford-aims-for-revolution-with-30000-electric-truck,https://reddit.com/r/electricvehicles/comments/1mnel0i/ford_aims_for_revolution_with_30000_electric_truck/,2025-08
+1n7hc3u,A Dodge Charger EV Driver Got a Ticket for a Loud Exhaust,,1217,0.98,264,DonkeyFuel,1756912036.0,2025-09-03 15:07:16,electricvehicles,https://www.thedrive.com/news/can-an-ev-get-a-ticket-for-a-loud-exhaust-only-if-its-a-dodge-charger,https://reddit.com/r/electricvehicles/comments/1n7hc3u/a_dodge_charger_ev_driver_got_a_ticket_for_a_loud/,2025-09
+1lkbgyy,Toyota chief’s remark that “one EV pollutes like three hybrids” faces scientific pushback,,1204,0.97,325,santz007,1750871515.0,2025-06-25 17:11:55,electricvehicles,https://carnewschina.com/2025/06/16/toyota-chiefs-remark-that-one-ev-pollutes-like-three-hybrids-faces-scientific-pushback/,https://reddit.com/r/electricvehicles/comments/1lkbgyy/toyota_chiefs_remark_that_one_ev_pollutes_like/,2025-06
+1pcw7i9,‘The Chinese will not pause’: Volvo and Polestar bosses urge EU to stick to 2035 petrol car ban,,1190,0.98,225,tom_zeimet,1764740932.0,2025-12-03 05:48:52,electricvehicles,https://www.theguardian.com/business/2025/dec/02/china-volvo-polestar-eu-2035-petrol-car-sweden-germany,https://reddit.com/r/electricvehicles/comments/1pcw7i9/the_chinese_will_not_pause_volvo_and_polestar/,2025-12
+1lnjmn9,Big Beautiful Bill is imposing a $250 fee on electric vehicles,Looks like the Senate has doubled down and increased the fee to $250 and it’s back on the table.,1185,0.9,302,RokynReddit,1751216383.0,2025-06-29 16:59:43,electricvehicles,https://www.congress.gov/bill/119th-congress/house-bill/1/text,https://reddit.com/r/electricvehicles/comments/1lnjmn9/big_beautiful_bill_is_imposing_a_250_fee_on/,2025-06
+1muc8hg,I hated EV cars until i drove one,"I was the typical car guy who loved big engines and the noise of v8s etc etc. I thought electric cars were soulless and toy-like. That’s until I decided to drive a bmw i7 and oh my god I fell in love with the car. The instant acceleration, how wonderfully the car handles corners although big made me rethink about evs. Then I drove an eqe 53 and that was even even better. Now I currently own an ev and I am loving the new ev transition without making it look like teslas lol ",1175,0.94,563,Careful-Question-675,1755590429.0,2025-08-19 08:00:29,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1muc8hg/i_hated_ev_cars_until_i_drove_one/,https://reddit.com/r/electricvehicles/comments/1muc8hg/i_hated_ev_cars_until_i_drove_one/,2025-08
+1pt6g1j,Bloomberg Report: 15 People Have Died in Crashes Where Tesla Doors Wouldn’t Open,,1173,0.94,565,Recoil42,1766426840.0,2025-12-22 18:07:20,electricvehicles,https://www.bloomberg.com/news/features/2025-12-22/tesla-door-safety-tied-to-at-least-15-auto-accident-deaths,https://reddit.com/r/electricvehicles/comments/1pt6g1j/bloomberg_report_15_people_have_died_in_crashes/,2025-12
+1lokf5w,"FORD CEO JIM FARLEY: CHINA’S EV COSTS, TECH, AND QUALITY “FAR SUPERIOR” TO THE WEST",,1163,0.95,326,Jay_Dubbbs,1751320381.0,2025-06-30 21:53:01,electricvehicles,https://news.dealershipguy.com/p/ford-ceo-jim-farley-china-s-ev-costs-tech-and-quality-far-superior-to-the-west-2025-06-30,https://reddit.com/r/electricvehicles/comments/1lokf5w/ford_ceo_jim_farley_chinas_ev_costs_tech_and/,2025-06
+1nxqp3q,Man buys used Tesla only to discover it's banned from Supercharger network,,1152,0.95,318,Dockalfar,1759574636.0,2025-10-04 10:43:56,electricvehicles,https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/,https://reddit.com/r/electricvehicles/comments/1nxqp3q/man_buys_used_tesla_only_to_discover_its_banned/,2025-10
+1pu438i,Tesla driver crashes during livestream desmonstrating 'Full Self-Driving' features,,1142,0.95,291,SpriteZeroY2k,1766521383.0,2025-12-23 20:23:03,electricvehicles,https://electrek.co/2025/12/23/tesla-driver-crashes-livestream-desmonstrating-full-self-driving-features/,https://reddit.com/r/electricvehicles/comments/1pu438i/tesla_driver_crashes_during_livestream/,2025-12
+1nuhie9,"Lucid CEO on stealing Tesla customers: Model S, nothing has changed in 12 years now",,1124,0.95,383,TripleShotPls,1759248908.0,2025-09-30 16:15:08,electricvehicles,https://electrek.co/2025/09/30/lucid-ceo-stealing-tesla-customers-model-s-nothing-changed-12-years-now/,https://reddit.com/r/electricvehicles/comments/1nuhie9/lucid_ceo_on_stealing_tesla_customers_model_s/,2025-09
+1nr1dqy,Xiaomi's CEO says the company bought 3 Tesla Model Ys and ripped them apart to see what they could learn,,1114,0.93,293,stinger_02in,1758893341.0,2025-09-26 13:29:01,electricvehicles,https://www.businessinsider.com/xiaomi-ceo-lei-jun-ripped-apart-tesla-model-y-study-2025-9,https://reddit.com/r/electricvehicles/comments/1nr1dqy/xiaomis_ceo_says_the_company_bought_3_tesla_model/,2025-09
+1pol39r,"Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules",,1082,0.94,242,afk_exe,1765938885.0,2025-12-17 02:34:45,electricvehicles,https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/,https://reddit.com/r/electricvehicles/comments/1pol39r/tesla_engaged_in_deceptive_marketing_for/,2025-12
+1ou9496,The Tesla Cybertruck And Model Y Bosses Both Just Quit,,1077,0.94,438,MN-Car-Guy,1762866823.0,2025-11-11 13:13:43,electricvehicles,https://insideevs.com/news/778529/tesla-cybertruck-model-y-executives-exit/,https://reddit.com/r/electricvehicles/comments/1ou9496/the_tesla_cybertruck_and_model_y_bosses_both_just/,2025-11
+1o16hxb,"German software giant SAP is banning PHEVs from its fleet of 19,000 company cars. From 2026 onwards, employees will only be able to order BEVs.",,1067,0.99,149,linknewtab,1759918392.0,2025-10-08 10:13:12,electricvehicles,https://ecomento.de/2025/10/08/sap-fuhrparkchef-bestaetigt-ab-2026-nur-noch-elektroautos-bestellbar/,https://reddit.com/r/electricvehicles/comments/1o16hxb/german_software_giant_sap_is_banning_phevs_from/,2025-10
+1p14e1d,I wish more people understood how cheap EV ownership can actually be,"Not trying to start anything here but I really wish people understood how affordable EVs can be when you charge at home or at a condo. There’s so much noise online about how EVs are “expensive” but most of that comes from people who’ve never actually owned one.
+
+Last night I charged my Mustang Mach-E P for six hours and got up to 90%. The total cost was $1.59 and when you see that on your bill it’s hard to take the whole “EVs cost more to run” thing seriously.
+
+A lot of the negativity around EVs feels like it comes from media clips or politics or just assumptions that don’t apply to actual EV owners. Most of us aren’t relying on overpriced public chargers every day. We plug in at home or in my case at my condo where it’s about 25 cents an hour after 9 PM which is cheaper than most people’s morning coffee.
+
+I get that older condos or certain homes might need upgrades and that can be a hurdle but for anyone moving into a newer building or planning ahead looking for a place with EV chargers is honestly a game changer. The savings add up way faster than people realize.
+
+At this point with how little I pay each month I can’t imagine going back to gas. Not because gas cars are bad but because the math just doesn’t make sense for me anymore. I just wish more people understood the real experience instead of all the online fear mongering.",1054,0.95,1074,blackman_48,1763549201.0,2025-11-19 10:46:41,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1p14e1d/i_wish_more_people_understood_how_cheap_ev/,https://reddit.com/r/electricvehicles/comments/1p14e1d/i_wish_more_people_understood_how_cheap_ev/,2025-11
+1ni9gxf,"EV’s are the ultimate daily, case closed","I’m a car enthusiast through and through. I’ve been car obsessed since I was a really young child, had a huge collection of hot wheels, owned many car related books, grew up watching Top Gear, Wheeler Dealers, Pimp My Ride, Overhaulin’ and Bangla Bangers. As an adult I’ve been to many car shows and have owned many cars, many of which have been modified.
+
+Despite all of this, I’m a firm believer that EV’s are undoubtedly the future of motoring for the average person and an EV is undoubtedly the ultimate daily. Unfortunately, very few people in the car enthusiast community agree with me. I won’t bother detailing all the ridiculous arguments they come up with, I’m sure you can guess them all on your own.
+
+I’ve just finished watching the latest Top Gear video on YouTube, the Hypercar Boss Chat! Great video, fascinating insight, but my most interesting takeaway was that the CEO of Koenigsegg and the CEO of Singer both said quite firmly that EV’s are the far superior option for a daily driver, with the Singer CEO going as far as actually owning a daily driver EV which he said he absolutely loves. 
+
+So that’s it folks, the ultimate checkmate for any meat head anti-EV car enthusiast. Cars that make noise are great, proper ICE sports cars are great for the weekend, but even two of the coolest and most successful car guys on the planet agree that EV’s are the better daily driver.",1052,0.94,377,DangerToManifold2001,1758002257.0,2025-09-16 05:57:37,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1ni9gxf/evs_are_the_ultimate_daily_case_closed/,https://reddit.com/r/electricvehicles/comments/1ni9gxf/evs_are_the_ultimate_daily_case_closed/,2025-09
+1ld3hwn,The $250 EV Tax Has No Legal Precedent In Over 200 Years,,1047,0.97,463,Receding_Hairline23,1750105087.0,2025-06-16 20:18:07,electricvehicles,https://insideevs.com/news/762894/ev-fee-has-no-legal-precedent/,https://reddit.com/r/electricvehicles/comments/1ld3hwn/the_250_ev_tax_has_no_legal_precedent_in_over_200/,2025-06
+1o5paq5,Elon Musk's SpaceX and xAI are buying Tesla's unsold Cybertrucks,,1041,0.95,342,SpriteZeroY2k,1760374560.0,2025-10-13 16:56:00,electricvehicles,https://electrek.co/2025/10/13/elon-musks-spacex-and-xai-are-buying-teslas-unsold-cybertrucks/,https://reddit.com/r/electricvehicles/comments/1o5paq5/elon_musks_spacex_and_xai_are_buying_teslas/,2025-10
+1lu9jlr,Tesla was forced to reimburse Full Self-Driving in arbitration after failing to deliver,,1041,0.97,131,SpriteZeroY2k,1751931164.0,2025-07-07 23:32:44,electricvehicles,https://electrek.co/2025/07/07/tesla-forced-reimburse-full-self-driving-arbitration-failing-deliver/,https://reddit.com/r/electricvehicles/comments/1lu9jlr/tesla_was_forced_to_reimburse_full_selfdriving_in/,2025-07
+1n6r2zj,New Study Proves EVs Are Always Cleaner Than Gas Cars,,1023,0.97,163,DonkeyFuel,1756836919.0,2025-09-02 18:15:19,electricvehicles,https://www.thedrive.com/news/new-study-proves-evs-are-always-cleaner-than-gas-cars,https://reddit.com/r/electricvehicles/comments/1n6r2zj/new_study_proves_evs_are_always_cleaner_than_gas/,2025-09
+1l5siol,First EV car camping ⛺️ used 6% for 8.5 hrs of sleep time in camp mode.,,1020,0.87,179,stinger_02in,1749323098.0,2025-06-07 19:04:58,electricvehicles,https://i.imgur.com/hnMCepp.jpeg,https://reddit.com/r/electricvehicles/comments/1l5siol/first_ev_car_camping_used_6_for_85_hrs_of_sleep/,2025-06
+1ldw01k,"As a Fiduciary, I Know the Tesla Board Needs to Fire Elon Musk",,1017,0.91,111,mafco,1750187498.0,2025-06-17 19:11:38,electricvehicles,https://www.newsweek.com/fiduciary-i-know-tesla-board-needs-fire-elon-musk-opinion-2085259,https://reddit.com/r/electricvehicles/comments/1ldw01k/as_a_fiduciary_i_know_the_tesla_board_needs_to/,2025-06
+1ozidzn,"It’s only been a few days but, I get it now…","I’ve been lurking on this sub for years and last week finally picked up a 2025 Ioniq 5 Limited AWD and you know what….y’all are right, EV is the way to go.
+
+Tech and features aside, I literally cannot stop smiling when driving. It’s just so smooth, responsive, quiet, and the acceleration is unreal. Pair that with plugging my car in at home and never having to go anywhere for field and the overall environmental impact, I will never go back to an ICE vehicle.
+
+I’ve never been a car guy and only have gotten excited about a car when it’s brand new. Now, I feel like I’m always peeking out of a window to take a look or make up excuses to drive.
+
+Best decision I’ve made in a while",1014,0.98,316,AlmostDrunkSailor,1763391339.0,2025-11-17 14:55:39,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1ozidzn/its_only_been_a_few_days_but_i_get_it_now/,https://reddit.com/r/electricvehicles/comments/1ozidzn/its_only_been_a_few_days_but_i_get_it_now/,2025-11
+1l1hocg,"Exclusive-Tesla executives questioned Musk after he denied killing $25,000 EV project",,998,0.97,149,mafco,1748869937.0,2025-06-02 13:12:17,electricvehicles,https://www.msn.com/en-ca/money/topstories/exclusive-tesla-executives-questioned-musk-after-he-denied-killing-25-000-ev-project-sources/ar-AA1FUVr7?ocid=finance-verthp-feeds,https://reddit.com/r/electricvehicles/comments/1l1hocg/exclusivetesla_executives_questioned_musk_after/,2025-06
+1lbcxkm,Report shows how republican attacks on EVs will kill 2 million US jobs,,992,0.97,97,mafco,1749919018.0,2025-06-14 16:36:58,electricvehicles,https://electrek.co/2025/06/13/report-shows-how-republican-attacks-on-evs-will-cost-us-2-million-jobs/,https://reddit.com/r/electricvehicles/comments/1lbcxkm/report_shows_how_republican_attacks_on_evs_will/,2025-06
+1lf87rk,EV Batteries Can Easily Outlast A Typical Gas Car’s Lifespan: Study,,980,0.98,282,tech57,1750331800.0,2025-06-19 11:16:40,electricvehicles,https://insideevs.com/news/763231/ev-battery-degradation-life-gas-car-comparison-age/,https://reddit.com/r/electricvehicles/comments/1lf87rk/ev_batteries_can_easily_outlast_a_typical_gas/,2025-06
+1m8zmjp,Mercedes-Benz is already testing solid-state batteries in EVs with +600 miles range,,968,0.97,208,magenta_placenta,1753451241.0,2025-07-25 13:47:21,electricvehicles,https://electrek.co/2025/07/24/mercedes-benz-already-testing-evs-with-solid-state-batteries/,https://reddit.com/r/electricvehicles/comments/1m8zmjp/mercedesbenz_is_already_testing_solidstate/,2025-07
+1pvv409,"China to enforce world’s first mandatory EV energy standard in 2026, capping two-tonne models at 15.1 kWh per 100 km",,963,0.98,144,ApprehensiveSize7662,1766722116.0,2025-12-26 04:08:36,electricvehicles,https://carnewschina.com/2025/12/26/china-to-enforce-worlds-first-mandatory-ev-energy-standard-in-2026-capping-two-tonne-models-at-15-1-kwh-per-100-km/,https://reddit.com/r/electricvehicles/comments/1pvv409/china_to_enforce_worlds_first_mandatory_ev_energy/,2025-12
+1ksx9jj,Tesla FSD veers over center line and crashes into a tree,Anyone figure out why the Tesla tried to off itself? Also why hasn’t this made on to any mainstream news? This seems pretty crazy. ,950,0.92,578,VentriTV,1747936512.0,2025-05-22 17:55:12,electricvehicles,https://youtu.be/frGoalySCns,https://reddit.com/r/electricvehicles/comments/1ksx9jj/tesla_fsd_veers_over_center_line_and_crashes_into/,2025-05
+1n4e6pj,New Ionna charger in Columbus OH charging $0.25/kwh,"The Ionna chargers look pretty awesome. They also have a lounge for EV drivers only with restrooms and snacks. 400kw chargers. Charged almost 40% for 11 minutes and only paid $8.59. 
+
+They also had 2 chargers per stall and both were usable at the same time! As well as CCS1 and NACS support. Overall a great precedent for chargers. 
+
+But a very important thing, for a little bit they have a representative at this location talking to every customer and getting their opinions and feedback. We had a lovely conversation about it and just talked about the technology and where it’s going to go. If I wasn’t on a road trip with places to be I could’ve spent hours with her talking. She was so smart and well versed not just with Ionna chargers but also the EV industry in general. Any EV that came in she knew so much about it. They didn’t just send a company representative, but actually sent an industry expert. Excellent choice in sending her. 
+
+If anyone is in or around Columbus I would recommend swinging by and giving your reviews as well as recommendations for how they can build the gold standard for networks because I truly think that’s what they are aiming for ",945,0.99,141,Buckles01,1756592155.0,2025-08-30 22:15:55,electricvehicles,https://www.reddit.com/gallery/1n4e6pj,https://reddit.com/r/electricvehicles/comments/1n4e6pj/new_ionna_charger_in_columbus_oh_charging_025kwh/,2025-08
+1mwkxwp,New Nissan Leaf in the wild (NYC).,My friend spotted the new Nissan Leaf in NYC. ,939,0.99,216,mcot2222,1755805071.0,2025-08-21 19:37:51,electricvehicles,https://www.reddit.com/gallery/1mwkxwp,https://reddit.com/r/electricvehicles/comments/1mwkxwp/new_nissan_leaf_in_the_wild_nyc/,2025-08
+1mf7by7,"Tesla must pay $329 million in damages after fatal Autopilot crash, jury says",,937,0.95,277,Super_Fightin_Robit,1754080079.0,2025-08-01 20:27:59,electricvehicles,https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html,https://reddit.com/r/electricvehicles/comments/1mf7by7/tesla_must_pay_329_million_in_damages_after_fatal/,2025-08
+1nox9xd,Why Hyundai Is Eating Toyota’s Lunch In American EV Market,,920,0.96,460,TOOTHTODAY,1758671335.0,2025-09-23 23:48:55,electricvehicles,https://carbuzz.com/hyundai-outselling-toyota-america-electric-vehicle-market/,https://reddit.com/r/electricvehicles/comments/1nox9xd/why_hyundai_is_eating_toyotas_lunch_in_american/,2025-09
+1oma38u,SpaceX has already taken delivery of hundreds of unsold Tesla Cybertrucks and is expected to receive thousands more,,913,0.95,462,ApprehensiveSize7662,1762064150.0,2025-11-02 06:15:50,electricvehicles,https://supercarblondie.com/spacex-buying-unsold-cybertrucks-tesla/,https://reddit.com/r/electricvehicles/comments/1oma38u/spacex_has_already_taken_delivery_of_hundreds_of/,2025-11
+1nqwdlf,"Just hit my first 1,000 miles in an EV — some honest thoughts","I finally crossed the 1,000-mile mark with my EV and thought I’d share a few things I didn’t really expect going in.
+
+* The instant torque still makes me grin like an idiot, even when I’m just merging.
+* I underestimated how much I’d enjoy never going to a gas station. Plugging in at home feels like cheating.
+* Road trips aren’t as stressful as I thought, planning a charging stop has kinda become part of the fun, like a mini pit stop.
+* The quiet ride is amazing, but it also means I notice every little rattle inside the cabin way more.
+
+I’m curious for those of you who’ve been driving EVs longer what’s the thing that *still* surprises you after thousands of miles?",914,0.95,484,gamblerexpert33,1758877246.0,2025-09-26 09:00:46,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1nqwdlf/just_hit_my_first_1000_miles_in_an_ev_some_honest/,https://reddit.com/r/electricvehicles/comments/1nqwdlf/just_hit_my_first_1000_miles_in_an_ev_some_honest/,2025-09
+1l1rzyp,Elon Musk claims ‘corruption’ as Tesla chargers kicked off the New Jersey Turnpike,This was expected...,907,0.93,797,Charming-Tap-1332,1748894372.0,2025-06-02 19:59:32,electricvehicles,https://www.nj.com/burlington/2025/06/elon-musk-claims-corruption-as-tesla-chargers-kicked-off-the-new-jersey-turnpike.html,https://reddit.com/r/electricvehicles/comments/1l1rzyp/elon_musk_claims_corruption_as_tesla_chargers/,2025-06
+1nde1zy,Ottawa considering scrapping tariffs on Chinese electric vehicles,,905,0.98,194,IDontScript,1757510473.0,2025-09-10 13:21:13,electricvehicles,https://www.ctvnews.ca/business/autos/article/ottawa-considering-scrapping-tariffs-on-chinese-electric-vehicle-tariffs/,https://reddit.com/r/electricvehicles/comments/1nde1zy/ottawa_considering_scrapping_tariffs_on_chinese/,2025-09
+1ldry5n,Senate dumps proposed annual EV penalty tax. New EV penalty tax is proposed instead.,,902,0.99,252,OXMWEPW,1750178291.0,2025-06-17 16:38:11,electricvehicles,https://insideevs.com/news/763016/senate-kills-the-250-dollar-ev-fee/,https://reddit.com/r/electricvehicles/comments/1ldry5n/senate_dumps_proposed_annual_ev_penalty_tax_new/,2025-06
+1n22n7k,Car expert finds Tesla with original powerpack and nearly half a million miles on it: 'People aren't understanding how significant this is',,892,0.91,325,SnoozeDoggyDog,1756354663.0,2025-08-28 04:17:43,electricvehicles,https://autos.yahoo.com/articles/car-expert-finds-tesla-original-115500804.html,https://reddit.com/r/electricvehicles/comments/1n22n7k/car_expert_finds_tesla_with_original_powerpack/,2025-08
+1l30hm6,“We were surprised:” Electric trucks ready to overtake diesel on lifetime cost,,901,0.98,157,Straight_Ad2258,1749026502.0,2025-06-04 08:41:42,electricvehicles,https://thedriven.io/2025/05/20/we-were-surprised-electric-trucks-ready-to-overtake-diesel-on-lifetime-cost/,https://reddit.com/r/electricvehicles/comments/1l30hm6/we_were_surprised_electric_trucks_ready_to/,2025-06
+1l1g2v7,EV Batteries Got 20% Cheaper Last Year,,876,0.99,119,tech57,1748865319.0,2025-06-02 11:55:19,electricvehicles,https://insideevs.com/news/761338/ev-battery-costs-down-2024/,https://reddit.com/r/electricvehicles/comments/1l1g2v7/ev_batteries_got_20_cheaper_last_year/,2025-06
+1l5xdg4,"PSA: Tesla has replaced Idle Fees with Congestion Fees at all North America superchargers. This affects anyone who uses their network, Tesla or not.","For those of you unfamiliar with congestion fees they more or less operate as idle fees with two key differences.
+
+
+
+1. Instead of applying 5 minutes after the end of your charging session it applies 5 minutes once your car has reached 80% displayed state of charge (or when your charging session ends if your charge limit is below 80%)
+
+2. Instead of applying 50 cents per minute at 50% capacity and $1 per minute at 100% capacity congestion fees apply at a flat rate of 50 cents/minute at an undisclosed supercharger capacity stated by Tesla as ""when busy"" \[in their FAQ\](https://www.tesla.com/support/charging/supercharger/fees) and when ""close to full"" by \[the Tesla Charging Twitter account\](https://x.com/TeslaCharging/status/1928609011013652780).
+
+
+
+In my opinion this is a truly awful change. I did not oppose congestion fees at select chargers that experience unusually high capacity as almost all people using them were residential chargers and could afford to only charge to 80%. However, I personally road trip quite often and have experienced circumstances where I needed to charge past 80% displayed SOC with high capacity many times. On top of this Tesla refusing to disclose explicit thresholds of capacity gives them the right to charge these fees basically whenever they feel like it. I am extremely disappointed in Teslas failure to define clear thresholds for people to follow when they need to.",877,0.95,313,1FrostySlime,1749336435.0,2025-06-07 22:47:15,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1l5xdg4/psa_tesla_has_replaced_idle_fees_with_congestion/,https://reddit.com/r/electricvehicles/comments/1l5xdg4/psa_tesla_has_replaced_idle_fees_with_congestion/,2025-06
+1kv19ld,Tesla registrations down 90% in Quebec (Q1 2025),,877,0.94,117,YamaToraBro,1748175785.0,2025-05-25 12:23:05,electricvehicles,https://www.youtube.com/watch?v=C1wjaRZites,https://reddit.com/r/electricvehicles/comments/1kv19ld/tesla_registrations_down_90_in_quebec_q1_2025/,2025-05
+1ppeced,25% of new cars sold globally in 2025 were EVs – here’s who bought them,,861,0.99,135,TheSylvaniamToyShop,1766021740.0,2025-12-18 01:35:40,electricvehicles,https://electrek.co/2025/12/17/25-percent-of-new-cars-sold-globally-are-evs-heres-who-is-buying-them/?utm_source=dlvr.it&utm_medium=bluesky,https://reddit.com/r/electricvehicles/comments/1ppeced/25_of_new_cars_sold_globally_in_2025_were_evs/,2025-12
+1mwi8i5,"Hyundai is readying a small, cheap electric car called Ioniq 3 with up to 365 miles of range",,865,0.98,143,self-fix,1755799000.0,2025-08-21 17:56:40,electricvehicles,https://www.topgear.com/car-news/interview/hyundai-readying-a-small-cheap-electric-car-called-ioniq-3-365-miles-range,https://reddit.com/r/electricvehicles/comments/1mwi8i5/hyundai_is_readying_a_small_cheap_electric_car/,2025-08
+1litzlr,"Tesla Pauses Texas Gigafactory Production of Model Y, Cybertruck Amidst Slowing Demand",,851,0.94,264,mafco,1750716439.0,2025-06-23 22:07:19,electricvehicles,https://finance.yahoo.com/news/tesla-pauses-texas-gigafactory-production-195101202.html,https://reddit.com/r/electricvehicles/comments/1litzlr/tesla_pauses_texas_gigafactory_production_of/,2025-06
+1otixc9,Used EVs Are Selling Faster Than Used Gas Cars,,852,0.97,115,Receding_Hairline23,1762793351.0,2025-11-10 16:49:11,electricvehicles,https://insideevs.com/news/778487/used-evs-selling-faster-than-any-other-powertrain/,https://reddit.com/r/electricvehicles/comments/1otixc9/used_evs_are_selling_faster_than_used_gas_cars/,2025-11
+1m82bht,"Apple spent a decade trying to develop a car that could rival Tesla. In 4 years, Xiaomi made a car that rivals the Tesla Model Y, with probably less money spent than Apple did. What are the advantages that Chinese EV makers have that allow them to accomplish this?","So I am reading [this article from Bloomberg on why Apple gave up on its car business](https://www.bloomberg.com/news/newsletters/2024-03-03/why-was-apple-car-canceled-the-hubris-in-apple-thinking-it-could-outdo-tesla-ltbke5ut).  In a nutshell, Apple spent a decade, and billions of dollars, to build a car that could beat Tesla.  They couldn't do it, and the higher ups at Apple, decided to pull the plug.
+
+As you may know, Xiaomi's CEO decided to enter the EV industry back in 2021.  4 years later, and after 2 models, [I am reading reviews where Xiaomi's YU7 rivals Tesla's Model Y](https://insideevs.com/reviews/764315/xiaomi-yu7-first-drive-china/). 
+
+Now I don't want to debate whether Xiaomi's YU7 is better or not than the Tesla Model Y.  That's not the point of this thread. But let's assume for a moment, that Xiaomi's YU7 is within the ""ballpark"" of the quality of a Model Y (and based on its initial sales and backlog, a lot of Chinese consumers probably think it's within the ballpark of the Model Y).
+
+My question is, how can a company in China, with only 2 model released and only 4 years in the industry, suddenly challenge Tesla so quickly, where Apple with all its money and resources, failed after 10 years?  There has to be more to the story than this - it's almost like Xiaomi had a huge tailwind boost when they sprinted out of the gate, that any other company outside of China wouldn't have had.  **What are the advantages that Chinese EV makers have that is allowing them to accomplish this**?",843,0.89,496,hk_bob,1753357968.0,2025-07-24 11:52:48,electricvehicles,https://www.reddit.com/r/electricvehicles/comments/1m82bht/apple_spent_a_decade_trying_to_develop_a_car_that/,https://reddit.com/r/electricvehicles/comments/1m82bht/apple_spent_a_decade_trying_to_develop_a_car_that/,2025-07
+1mhpd3i,Rivian sues to sell its EVs directly in Ohio,,835,1.0,51,DonkeyFuel,1754340640.0,2025-08-04 20:50:40,electricvehicles,https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/,https://reddit.com/r/electricvehicles/comments/1mhpd3i/rivian_sues_to_sell_its_evs_directly_in_ohio/,2025-08
+1m0yxaq,Tesla’s Cybertruck Is a Bust,,827,0.88,523,hissingkittycom,1752626782.0,2025-07-16 00:46:22,electricvehicles,https://gizmodo.com/teslas-cybertruck-is-a-bust-2000629510,https://reddit.com/r/electricvehicles/comments/1m0yxaq/teslas_cybertruck_is_a_bust/,2025-07
+1nx4pie,Cadillac's Big Boom: 40% Of Q3 Sales Were EVs,,824,0.98,196,Peugeot905,1759510705.0,2025-10-03 16:58:25,electricvehicles,https://insideevs.com/news/774488/cadillac-q3-sales-40-percent/,https://reddit.com/r/electricvehicles/comments/1nx4pie/cadillacs_big_boom_40_of_q3_sales_were_evs/,2025-10
